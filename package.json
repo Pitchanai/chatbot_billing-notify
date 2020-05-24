@@ -1,0 +1,19 @@
+{
+  "name": "chatbot_billing-notify",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pitchanai Thitipakorn",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pitchanai/chatbot_billing-notify.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Pitchanai/chatbot_billing-notify/issues"
+  },
+  "homepage": "https://github.com/Pitchanai/chatbot_billing-notify#readme",
+  "description": ""
+}
